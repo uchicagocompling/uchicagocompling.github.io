@@ -3,37 +3,9 @@ font-family: "Georgia", serif;
 color: #484848
 }
 
-h1 {
+h1,h2,h3 {
 margin-left: 40px
 }
-
-h2 {
-margin-left: 40px
-}
-
-.project {
-  margin-left: 40px
-}
-
-h3,p,a.al,h4{
-width:950px;
-margin-left: auto;
-margin-right: auto;
-}
-
-hr{
-width:800px;
-}
-/* ul{
-width:900px;
-margin-left: 40px;
-margin-right: auto;
-} */
-
-.centertext {
-text-align: center
-}
-
 
 div.intro {
 width:1040px;
@@ -51,80 +23,11 @@ width:850px;
 margin-left: 40px;
 }
 
-/* div.members {
-width:700px;
-margin-left: auto;
-margin-right: auto;
-} */
-
-img.standard {
-  width:200px;
-  height:300px;
-}
-
-#centerpic {
-float:right;
-padding-left: 30px;
-padding-bottom: 20px;
-padding-top: 20px
-}
-
-#leftpic {
-float:left;
-padding-right: 30px;
-padding-bottom: 20px;
-padding-top: 20px
-}
-
-.inside{
-margin-left: 0px;
-}
-
-.bio{
-float:left;
-width: 500px;
-margin-left: 0px;
-}
-
-
-.news{
-float:right;
-width: 400px
-}
-
-
-p.small {
-line-height: 50%;
-font-size: 80%;
-text-align: right;
-margin-left: 100px;
-margin-right: 110px;
-}
-
-p.indent {
-margin-left: 100px;
-margin-right: 120px
-}
 
 ul #navbar {
 text-align: center;
 }
 
-/* li {
-list-style:decimal;
-} */
-
-.disc {
-  list-style:disc
-}
-
-.l2c
-{
-    padding-left:30px;
-    background-image: url('http://www.sizzledcore.com/wp-content/themes/SizzledCore-7.0/images/facebook.png');
-    background-repeat: no-repeat;
-    background-position: 0 0 0 0;
-}
 
 #navbar a {border-bottom-width: 0;}
 #navbar {height: 1.8em;
